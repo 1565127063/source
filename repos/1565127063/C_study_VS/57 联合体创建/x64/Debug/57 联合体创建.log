@@ -1,0 +1,4 @@
+﻿  联合体.c
+C:\Users\H2B\source\repos\1565127063\C_study_VS\57 联合体创建\联合体.c(18,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\H2B\source\repos\1565127063\C_study_VS\57 联合体创建\联合体.c(18,9): message : 请考虑在格式字符串中使用“%zd”
+  57 联合体创建.vcxproj -> C:\Users\H2B\source\repos\1565127063\C_study_VS\01 hello word\x64\Debug\57 联合体创建.exe
